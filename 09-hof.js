@@ -3,7 +3,7 @@
 const array = [
    {name: 'iphone', price: 5000, quantity: 2 },
    {name: 'MacBook Pro', price: 20000, quantity: 1 },
-   { name: 'Magic mouse', price: 1000, quantity: 5 },
+   { name: 'Magic mouse', price: 1001, quantity: 5 },
 ];
 
 
