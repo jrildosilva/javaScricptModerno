@@ -1,4 +1,4 @@
 function printGreentings(message ='Mensagem Padão' ) {
-    console.log(message );
+    console.log( message);
 }
-printGreentings('seja bem vindo');
+printGreentings('Tudo posso quando eu quero');
